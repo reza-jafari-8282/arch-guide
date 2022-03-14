@@ -22,7 +22,7 @@
 # 8 : localtime (run it)
 
 
-# 9 : edit locale.gen (run and read it)
+# 9 : edit locale.gen (read it)
 
 
 # 10 : locale-gen (run it)
@@ -49,7 +49,7 @@
 # 17 : user add (run it)
 
 
-# 18 : sudo conf (run it)
+# 18 : sudo conf (read it)
 
 
 # 19 : set passwd (read it)
@@ -58,7 +58,7 @@
 # 20 : install graphical tools (run it)
 
 
-# 21 : edit lightdm.conf (run and read it)
+# 21 : edit lightdm.conf (read it)
 
 
 # 22 : enable lightdm (run it)
