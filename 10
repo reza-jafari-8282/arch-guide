@@ -1,0 +1,1 @@
+locale-gen && touch /etc/locale.conf && echo 'LANG=en_US.UTF-8' > /etc/locale.conf && touch /etc/hostname && echo 'lenovo' > /etc/hostname && rm /etc/hosts && mv hosts /etc

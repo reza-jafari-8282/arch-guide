@@ -1,0 +1,1 @@
+mkdir /boot/EFI && mount /dev/sda1 /boot/EFI

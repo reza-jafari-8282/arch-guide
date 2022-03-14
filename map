@@ -1,0 +1,67 @@
+# 1 : set time (run it)
+
+
+# 2 : Partition (read it)
+
+
+# 3 : format partitions (run it)
+
+
+# 4 : mount (run it)
+
+
+# 5 : pacstrap (run it)
+
+
+# 6 : genfstab (run it)
+
+
+# 7 : chroot (read it)
+
+
+# 8 : localtime (run it)
+
+
+# 9 : edit locale.gen (run and read it)
+
+
+# 10 : locale-gen (run it)
+
+
+# 11 : mkinitcpio (run it)
+
+
+# 12 : install somthing (run it)
+
+
+# 13 : boot (run it)
+
+
+# 14 : grub (run it)
+
+
+# 15 : grub conf (run it)
+
+
+# 16 : NetworkManager (run it)
+
+
+# 17 : user add (run it)
+
+
+# 18 : sudo conf (run it)
+
+
+# 19 : set passwd (read it)
+
+
+# 20 : install graphical tools (run it)
+
+
+# 21 : edit lightdm.conf (run and read it)
+
+
+# 22 : enable lightdm (run it)
+
+
+# 23 : install somthings (run it)
