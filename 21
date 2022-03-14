@@ -1,1 +1,2 @@
-vim /etc/lightdm/lightdm.conf # uncommand greeter-session=lightdm-gtk-greeter
+# vim /etc/lightdm/lightdm.conf 
+# uncommand greeter-session=lightdm-gtk-greeter
